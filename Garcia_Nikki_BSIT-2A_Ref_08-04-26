@@ -1,13 +1,13 @@
-name = str ("Nikki Garcia");
+name = str ("Nikki Garcia")
 print (name)
 
-weight = int ("45");
+weight = int ("45")
 print (weight)
 
-loveMingyu = bool ("True");
+loveMingyu = bool ("True")
 print (loveMingyu)
 
-measurement = float ("45.5");
+measurement = float ("45.5")
 print (measurement)
 
 class Profile:
