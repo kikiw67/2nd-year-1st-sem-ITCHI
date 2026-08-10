@@ -1,0 +1,16 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string name = "Nikki P. Garcia";
+        Console.WriteLine(name);
+        int age = 19;
+        Console.WriteLine(age);
+        double digits = 19.19;
+        Console.WriteLine(digits);
+        bool LoveMingyu = true;
+        Console.WriteLine(LoveMingyu);
+    }
+}
